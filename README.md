@@ -10,7 +10,7 @@ every run automatically audited and reported by email.
 
 ## Architecture
 
-![CareSync end-to-end architecture](assets/architecture-overview.png)
+![CareSync end-to-end architecture](architecture-overview.png)
 
 Data flows from the source systems on the left through ingestion,
 transformation, and out to consumption, with orchestration, governance, and
